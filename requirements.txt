@@ -1,0 +1,7 @@
+pandas==1.4.3
+plotly==5.6.0
+pymongo==4.2.0
+pymongo[srv]
+streamlit==1.12.2
+jsonschema==4.4.0
+boto3==1.24.72
